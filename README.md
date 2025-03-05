@@ -46,12 +46,6 @@ sudo apt install tesseract-ocr-chi-sim  # Chinese Simplified OCR
 ```
 Or manually download `.traineddata` from [Tesseract Language Data](https://github.com/tesseract-ocr/tessdata) and place it in the `tessdata` directory.
 
-如果你需要额外的 OCR 语言支持：
-```bash
-sudo apt install tesseract-ocr-chi-sim  # 中文简体 OCR
-```
-或者手动从 [Tesseract 语言数据](https://github.com/tesseract-ocr/tessdata) 下载 `.traineddata` 文件并放入 `tessdata` 目录。
-
 ---
 
 ## Compilation & Running | 编译与运行
