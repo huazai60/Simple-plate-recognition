@@ -98,31 +98,3 @@ The program will open a webcam feed, detect license plates, and overlay the reco
 If a license plate is detected, it will be outlined in green and the extracted text will be displayed above it.
 
 如果检测到车牌，它会被绿色轮廓框住，并在上方显示识别出的文本。
-
-![Example](example_output.png)
-
----
-
-## License | 许可证
-This project is licensed under the MIT License.
-
-本项目采用 MIT 许可证。
-
----
-
-## Acknowledgments | 致谢
-- **OpenCV** - Open-source computer vision library
-- **Tesseract OCR** - Optical character recognition engine
-- **Leptonica** - Image processing library for Tesseract
-
-- **OpenCV** - 开源计算机视觉库
-- **Tesseract OCR** - 光学字符识别引擎
-- **Leptonica** - Tesseract 依赖的图像处理库
-
----
-
-## Contributing | 贡献
-Pull requests and suggestions are welcome!
-
-欢迎提交 Pull Request 或提出建议！
-
